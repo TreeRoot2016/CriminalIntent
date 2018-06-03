@@ -5,6 +5,8 @@ import java.util.UUID;
 
 public class Crime {
 
+    //添加测试文字
+    private String mUid;
     private UUID mId;
     private String mTitle;
     private Date mDate;
